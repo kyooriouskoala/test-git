@@ -5,6 +5,7 @@ Testing, learning.
 Edited by kyooriouskoala:
 
 #1 Aloha
+#2 Hello there!
 
 Edited by merrypr:
 
